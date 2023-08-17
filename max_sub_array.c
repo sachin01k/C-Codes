@@ -43,7 +43,7 @@ int max_sub_array(int a[], int n)
 		}
 	}
 
-	return max_sum;
+	return max_so_far;
 }
 
 int main(int argc, char const *argv[])
