@@ -51,9 +51,7 @@ int main(int argc, char const *argv[])
 {
 	int a[20];
 	int n;
-	int x; // ceiling of tobe finded.
-	int ceiling = 0, floor = 0; // ceiling to return greatest or equal number than x and smallest in array.
-								// floor returns value smallest or equal number than x and greatest in array.
+	
 	printf("Smallest Missing Element from Sorted Array\n");
 	printf("How many Elements you want to store in Array 1 : ");
 	scanf("%d", &n);
