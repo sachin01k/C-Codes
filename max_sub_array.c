@@ -1,4 +1,4 @@
-//Q.Write a C Program to find contigious subarray and returm largest sum.
+QQ//Q.Write a C Program to find contigious subarray and returm largest sum.
 
 #include<stdio.h>
 
